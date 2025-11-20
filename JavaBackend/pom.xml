@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>top.mryan2005.template</groupId>
-	<artifactId>JavaBackend</artifactId>
+	<artifactId>javabackend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>JavaBackend</name>
 	<description>JavaBackend</description>
